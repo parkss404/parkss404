@@ -3,7 +3,7 @@
 - **공군 창의혁신 해커톤 (with 서울시)** *(서울시 지정공모 과제)*  🥇 <mark>대상 (서울시장상)</mark>
 > 2023
 - **공군 정보통신경연대회 빅데이터 AI분야** 🥇 <mark>최우수상 (공군 참모총장상)</mark>  
-- **국방 AI 경진대회 MAICON** [(Model Repo)](https://github.com/RokafNet/rokafnet) 🥈 <mark>2nd IITP정보통신기획평가원장상</mark>
+- **국방 AI 경진대회 MAICON** [(Model Repo)](https://github.com/RokafNet/rokafnet) 🥈 <mark>2nd IITP 정보통신기획평가원장상</mark>
 > 2022
 - **충북대학교 창업 엑셀러레이션 프로그램 활동** *(2022.04.06 ~ 2022.10.31)*  
 - **ICT기반 모의투자 IR 경진대회** 🥈 <mark>2nd, 최우수상</mark>   
