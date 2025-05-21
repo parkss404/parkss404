@@ -13,7 +13,7 @@
 - **산학협력 EXPO 디지털 혁신공유대학 메타버스 경진대회**  🥈 <mark>2nd, 은상</mark> 
 - **NFT기반 메타버스 내 활용 경진대회** 🥉 <mark>3rd, 우수상</mark>  
 
-
-
+## 🚀 **Contribution**
+- [public-transport/transitous](https://github.com/public-transport/transitous/pull/1155)
 
 
