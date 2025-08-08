@@ -1,6 +1,6 @@
 ## 🚀 **Experiences & Awards**
 > 2025
-- **CJ 제일제당 Future Marketer League** <mark>결선 진출</mark>
+- **CJ 제일제당 Future Marketer League** <mark>결선 진출, 채용 연계</mark>
 > 2024
 - **공군 창의혁신 해커톤 (with 서울시)** *(서울시 지정공모 과제)*  🥇 <mark>대상 (서울시장상)</mark>
 > 2023
